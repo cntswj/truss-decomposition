@@ -4,7 +4,7 @@ Please cite if you use the code.
 
 Usage of `imtd.cpp`:
 
-#### input
+#### Input
 1st line:	n m	// #vertices, #edges
 (i+1)th line	u v	// ith edge (u,v)
 
