@@ -1,4 +1,4 @@
-Fast truss decomposition
+# Fast truss decomposition
 In-memory truss-decomposition algorithm from the PVLDB'12 paper "Truss Decomposition in Massive Networks".
 Please cite if you use the code.
 
